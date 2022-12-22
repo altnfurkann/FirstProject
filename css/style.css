@@ -1,0 +1,12 @@
+.btn{
+    background-color: #fff;
+}
+.btn:hover{
+    cursor: pointer;
+    transition: 2s all ease;
+    background-color: aqua;
+
+}
+.btn:focus{
+    background-color: red;
+}
